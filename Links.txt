@@ -1,0 +1,11 @@
+https://github.com/261107-hhh/Linear-Search.git
+https://github.com/261107-hhh/Binary-Search.git
+https://github.com/261107-hhh/Quick_sort.git
+https://github.com/261107-hhh/Merg_sort.git
+https://github.com/261107-hhh/Insertion-sort.git
+https://github.com/261107-hhh/Prims.git
+https://github.com/261107-hhh/Dijkstra.git
+https://github.com/261107-hhh/BFS.git
+https://github.com/261107-hhh/DFS.git
+https://github.com/261107-hhh/LCS.git
+https://github.com/261107-hhh/Fractional-Knapsack.git
